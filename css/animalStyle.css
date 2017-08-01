@@ -1,0 +1,26 @@
+h1{
+  font-size: 30px;
+  font-family: sans-serif;
+  color: rgb(0,100,160);
+  text-align: center;
+}
+h3{
+  font-size: 25px;
+  color: red;
+  font-family: monospace;
+  }
+
+ul{
+  color: green;
+  font-family: helvetica;
+  font-size: 18px;
+}
+ol{
+  color: blue;
+  font-family: times;
+  font-size: 20px;
+}
+p{
+  font-size:20px;
+  color: teal;
+}
