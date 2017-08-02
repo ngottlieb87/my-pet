@@ -24,3 +24,21 @@ p{
   font-size:20px;
   color: teal;
 }
+.important{
+  font-weight: bold;
+  font-style: italic;
+}
+.little{
+  font-size: 15px;
+}
+.favPeople{
+  font-family: cursive;
+  color: lightblue;
+}
+.image{
+  text-align: center;
+}
+.contact{
+  color: red;
+  font-family: helvetica;
+}
